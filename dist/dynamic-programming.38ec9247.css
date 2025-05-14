@@ -1,0 +1,83 @@
+.calculate-LCS {
+  color: #1c1a26;
+  box-sizing: border-box;
+  background-color: #d3d3d3;
+  border: 1px solid #000;
+  width: 800px;
+  max-width: calc(100vw - 60px);
+  margin: 10px auto 0;
+  padding-inline: 30px;
+  font-family: Inter, sans-serif;
+  font-weight: 600;
+}
+
+.calculate-LCS__topic {
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 15px;
+}
+
+.calculate-LCS__description {
+  text-align: center;
+  font-size: 20px;
+}
+
+.calculate-LCS__description-text {
+  margin: 0;
+}
+
+.calculate-LCS__description-text:last-child {
+  margin-top: 20px;
+}
+
+.calculate-LCS__input-section {
+  margin: 0 auto;
+}
+
+.calculate-LCS__step-description {
+  background-color: #f5f5f5;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.calculate-LCS__matrix-container {
+  margin: 20px 0;
+}
+
+.input-section {
+  margin: 20px 30px;
+  font-size: 25px;
+}
+
+.input-section__input {
+  height: 30px;
+}
+
+.input-section__button {
+  font-size: 20px;
+}
+
+.input-section__highlighted {
+  background-color: #ffeb3b;
+}
+
+body {
+  margin: 0;
+}
+
+.matrix-cell {
+  text-align: center;
+  border: 1px solid #ccc;
+  width: 40px;
+  height: 40px;
+}
+
+#dpMatrix {
+  margin: 0 auto;
+}
+
+.path {
+  color: #fff;
+  background-color: #4caf50;
+}
+/*# sourceMappingURL=dynamic-programming.38ec9247.css.map */
