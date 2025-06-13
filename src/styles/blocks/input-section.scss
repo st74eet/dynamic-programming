@@ -1,0 +1,16 @@
+.input-section {
+  margin: 20px 30px;
+  font-size: 25px;
+
+  &__input {
+    height: 30px;
+  }
+
+  &__button {
+    font-size: 20px;
+  }
+
+  &__highlighted {
+    background-color: #ffeb3b;
+  }
+}

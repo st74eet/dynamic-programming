@@ -1,0 +1,22 @@
+@import url(./blocks/calculate-LCS.scss);
+@import url(./blocks/input-section.scss);
+
+body {
+  margin: 0;
+}
+
+.matrix-cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+#dpMatrix {
+  margin: 0 auto;
+}
+
+.path {
+    background-color: #4caf50;
+    color: white;
+}
